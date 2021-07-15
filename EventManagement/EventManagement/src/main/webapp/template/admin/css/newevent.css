@@ -1,0 +1,18 @@
+
+input[type=text]:focus {
+   
+}
+.text{
+	width: 100%;
+	border: 2px solid purple;
+  	border-radius: 2px;
+}
+.time{
+	width: 50px;
+	border: 2px solid purple;
+  	border-radius: 2px;
+}
+.date{
+	border: 2px solid purple;
+  	border-radius: 2px;
+}
